@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/main/assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/main/assets/banner-light.svg" />
-  <img alt="位艺豪 | AI Agent 应用开发" src="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/main/assets/banner-light.svg" width="100%" />
+  <img alt="她与Java皆是遗憾 | AI Agent 应用开发" src="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/main/assets/banner-light.svg" width="100%" />
 </picture>
 
-<h1>位艺豪</h1>
+<h1>她与Java皆是遗憾</h1>
 
 <p><strong>Java / Python 后端与 AI Agent 应用开发</strong></p>
 <p>使用 LangGraph、RAG、NL2SQL 和多模态服务，<br/>把大模型能力落到可运行的业务流程中。</p>
@@ -19,7 +19,6 @@
 
 ## 👋 关于我
 
-- 河南城建学院计算机科学与技术本科生，GPA 3.7 / 4.0，专业前 10%。
 - 关注 AI Agent、RAG、自然语言数据查询和后端服务工程化。
 - 有 Java / Python 全栈实习经历，参与过教育类 AI 平台和多模态工具平台开发。
 - CSDN 发布 20+ 篇原创技术文章，累计阅读 3 万+。
