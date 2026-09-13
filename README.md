@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/main/assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/main/assets/banner-light.svg" />
-  <img alt="她与Java皆是遗憾 | AI Agent 应用开发" src="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/main/assets/banner-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/a51843168793ee83729575ea45ee30db3cc964e0/assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/a51843168793ee83729575ea45ee30db3cc964e0/assets/banner-light.svg" />
+  <img alt="她与Java皆是遗憾 | AI Agent 应用开发" src="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/a51843168793ee83729575ea45ee30db3cc964e0/assets/banner-light.svg" width="100%" />
 </picture>
 
 <h1>她与Java皆是遗憾</h1>
