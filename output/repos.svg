@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="518" height="254" viewBox="0 0 518 254">
+    <style>
+      text { font-family: Segoe UI, PingFang SC, Microsoft YaHei, sans-serif; }
+      .bg { fill: #ffffff; stroke: #d0d7de; }
+      .card { fill: #f6f8fa; stroke: #d0d7de; }
+      .title { font-size: 15px; font-weight: 600; fill: #1f2328; }
+      .label { font-size: 13px; fill: #57606a; }
+      .value { font-size: 13px; font-weight: 600; fill: #1f2328; }
+      .muted { font-size: 11px; fill: #8c959f; }
+      .repo { font-size: 14px; font-weight: 600; fill: #0969da; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0d1117; stroke: #30363d; }
+        .card { fill: #161b22; stroke: #30363d; }
+        .title, .value { fill: #e6edf3; }
+        .label { fill: #8b949e; }
+        .muted { fill: #6e7681; }
+        .repo { fill: #58a6ff; }
+      }
+    </style>
+    <rect class="bg" x="0.5" y="0.5" width="517" height="253" rx="10"/><rect class="card" x="14" y="14" width="238" height="106" rx="8"/><text class="repo" x="28" y="40">LibraryManeger</text><text class="label" x="28" y="62">一个功能完整的全栈图书馆管理系统，基于 Spring Boot …</text><text class="muted" x="28" y="96">★ 4   ⑂ 0</text><rect class="card" x="266" y="14" width="238" height="106" rx="8"/><text class="repo" x="280" y="40">zzly</text><text class="label" x="280" y="62">一个为养老院提供智能化管理的系统</text><text class="muted" x="280" y="96">★ 2   ⑂ 0</text><rect class="card" x="14" y="134" width="238" height="106" rx="8"/><text class="repo" x="28" y="160">Agent-daily--report</text><text class="label" x="28" y="182">一个自动帮你根据git提交记录生成日报的系统</text><text class="muted" x="28" y="216">★ 1   ⑂ 0</text><rect class="card" x="266" y="134" width="238" height="106" rx="8"/><text class="repo" x="280" y="160">FoodCooker</text><text class="label" x="280" y="182">一个ai食谱</text><text class="muted" x="280" y="216">★ 1   ⑂ 0</text></svg>
