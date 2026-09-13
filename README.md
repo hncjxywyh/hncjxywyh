@@ -54,6 +54,12 @@
 
 ## 📌 精选项目
 
+<div align="center">
+
+<img width="820" src="https://raw.githubusercontent.com/hncjxywyh/hncjxywyh/main/output/repos.svg" alt="Featured repositories" />
+
+</div>
+
 ### [Multi-Agent-Exp](https://github.com/hncjxywyh/Multi-Agent-Exp)
 
 > 基于 LangGraph 的多智能体智能数据查询系统。该仓库当前为 Fork，我在此基础上进行了功能扩展和实验，项目页面会持续补充个人改动说明。
